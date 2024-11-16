@@ -1,4 +1,4 @@
-Rainbow and Unicorn Poem
+Rainbow and Unicorn and the Pony Poem
 
 Red
 Green
@@ -10,3 +10,4 @@ Unicorn
 Pink
 
 This has been a poem about the colors of the rainbow and a unicorn.
+Pony
