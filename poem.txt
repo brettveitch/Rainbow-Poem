@@ -4,4 +4,7 @@ Red
 Green
 Blue
 Yellow
+Purple
+Orange
+Pink
 This has been a poem about the colors of the rainbow.
