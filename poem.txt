@@ -3,4 +3,5 @@ Rainbow Poem
 Red
 Green
 Blue
+Yellow
 This has been a poem about the colors of the rainbow.
