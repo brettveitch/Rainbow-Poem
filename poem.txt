@@ -8,5 +8,6 @@ Purple
 Orange
 Unicorn
 Pink
+Indigo
 
 This has been a poem about the colors of the rainbow and a unicorn.
