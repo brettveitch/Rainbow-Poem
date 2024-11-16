@@ -1,4 +1,4 @@
-Rainbow Poem
+Rainbow and Unicorn Poem
 
 Red
 Green
@@ -6,5 +6,7 @@ Blue
 Yellow
 Purple
 Orange
+Unicorn
 Pink
-This has been a poem about the colors of the rainbow.
+
+This has been a poem about the colors of the rainbow and a unicorn.
